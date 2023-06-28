@@ -5,7 +5,7 @@
 ### ✨ About Me
 
 - Robotics learner | AT student 
-- Quadruped & Humanoid ethusiast | Just learning | currently no Yields
+- Quadruped & Humanoid ethusiast | Just beginner
 - About to finish my bachelor years
 
 ### 🧰 Tech Stack
