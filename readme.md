@@ -6,7 +6,7 @@
 
 - Robotics learner | AT student 
 - Quadruped & Humanoid ethusiast | Just beginner
-- About to finish my bachelor years
+- Just finished bachelor years
 
 ### 🧰 Tech Stack
 
