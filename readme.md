@@ -4,7 +4,7 @@
 
 ### ✨ About Me
 
-- Robotics learner | AT student 
+- Robotics learner | RA at FAST LAB
 - Quadruped & Humanoid ethusiast
 
 ### 🧰 Tech Stack
