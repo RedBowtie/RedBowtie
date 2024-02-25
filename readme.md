@@ -1,7 +1,5 @@
 ## Hi, there :D I'm Estus!
 
-<img align="right" src='https://github-readme-stats.vercel.app/api?username=RedBowtie&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true'/>
-
 ### ✨ About Me
 
 - Robotics | RA at FAST LAB
