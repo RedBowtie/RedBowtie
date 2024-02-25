@@ -4,8 +4,8 @@
 
 ### ✨ About Me
 
-- Robotics learner | RA at FAST LAB
-- Quadruped & Humanoid ethusiast
+- Robotics | RA at FAST LAB
+- Locomotion & Multi-agent systems
 
 ### 🧰 Tech Stack
 
