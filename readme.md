@@ -4,8 +4,7 @@ I am Jiacheng, currently a research assistant at FAST Lab. My bachelor major is 
 
 ### 🏃🏻 Recent news:
 
-- Working on paper for IROS
-- Still searching for a way to design a high performance controller for inverted CubeTrack.
+- Working on modelling and controller design for closed loop systems.
 - Some plan for RL study.
 
 ### 🧭 Reach me
