@@ -1,10 +1,10 @@
 ### Hi, there 👋
 
-I am Jiacheng, currently a research assistant at FAST Lab. My bachelor major is automation. I'm interested in developing control strategies for robot locomotion. I'm also interested in multi-agent systems, optimal control and RL for robots. I wish to enable humanoids and quadruped to cooperate with humans in complex environments.
+I am Jiacheng, and I've rencently ended my RA at FAST Lab. My bachelor major is automation. I'm interested in developing control strategies for robot locomotion. I'm also interested in multi-agent systems, optimal control and RL for robots. I wish to enable robots to cooperate with humans in complex environments.
 
 ### 🏃🏻 Recent news:
 
-- Working on modelling and controller design for closed loop systems.
+- Learning manipulation of robotic arms.
 - Some plan for RL study.
 
 ### 🧭 Reach me
