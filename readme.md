@@ -4,7 +4,7 @@ I am Jiacheng, a graduate at Hopkins Robotics program. You can also call me Edze
 
 ### 🏃🏻 Recent news:
 
-- The transition from RA into an international graduate program is kinda hard, not really easy for an introverted person.
+- The earliest one who try to do better next semester : |
 
 ### 🧭 Reach me
 
