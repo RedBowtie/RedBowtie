@@ -4,7 +4,7 @@ I am Jiacheng, a graduate at Hopkins Robotics program. You can also call me Edze
 
 ### 🏃🏻 Recent news:
 
-- The earliest one who try to do better next semester : |
+- Taking breaks
 
 ### 🧭 Reach me
 
