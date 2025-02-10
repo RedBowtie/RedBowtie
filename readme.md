@@ -4,9 +4,9 @@ I am Jiacheng, a graduate at Johns Hopkins Robotics program. You can also call m
 
 ### 🏃🏻 Recent news:
 
-- Taking breaks
+- Keep thinking
 
 ### 🧭 Reach me
 
 - Personal email: Jc.L.E@outlook.com
-- Blog: [Amaurot Ch.](https://redbowtie.github.io)
+- Blog: [Amaurot Ch.](https://redbowtie.github.io) (No time to update though :|  
