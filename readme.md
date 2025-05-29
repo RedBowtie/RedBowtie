@@ -4,7 +4,7 @@ I am Jiacheng, a graduate at Johns Hopkins Robotics program. You can also call m
 
 ### 🏃🏻 Recent news:
 
-- Keep thinking
+- ?
 
 ### 🧭 Reach me
 
