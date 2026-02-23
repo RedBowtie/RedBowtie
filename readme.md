@@ -1,12 +1,6 @@
-### Hi, there 👋
+### Hi there 👋 I’m Jiacheng (Edzel)
 
-I am Jiacheng, a graduate at Johns Hopkins Robotics program. You can also call me Edzel. My bachelor major is automation and I was a RA in FAST Lab between 2023-2024. I'm interested in developing control strategies for robot locomotion. I'm also interested in optimal control and RL for robots. I wish to enable robots to cooperate with humans in complex environments.
+I’m a graduate student in the Robotics program at Johns Hopkins University. I earned my B.S. in Automation and worked as a Research Assistant in the FAST Lab (2023–2024). My interests include robot locomotion and control, with a focus on optimal control and reinforcement learning. Long term, I aim to build robots that can collaborate with humans safely and effectively in complex, real-world environments.
 
-### 🏃🏻 Recent news:
-
-- work work (logging.gif)
-
-### 🧭 Reach me
-
-- Personal email: Jc.L.E@outlook.com
-- Blog: [Amaurot Ch.](https://redbowtie.github.io) (No time to update though :|  
+### 🏃🏻 Recent news
+- New blog: under construction 🚧
